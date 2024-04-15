@@ -1,5 +1,5 @@
 {
-  "pluginAlias": "ExampleHomebridgePlugin",
+  "pluginAlias": "HomebridgeHttpVenstar",
   "pluginType": "platform",
   "singular": true,
   "schema": {
